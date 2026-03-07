@@ -16,7 +16,7 @@
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
 ```python
 probir = {
@@ -32,7 +32,7 @@ probir = {
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 
@@ -54,7 +54,7 @@ probir = {
 
 ---
 
-### 🚀 Projects
+### Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -65,7 +65,7 @@ probir = {
 
 ---
 
-### 🤝 Let's Connect
+### Let's Connect
 
 Open to collaborations, freelance projects, and new ideas!
 
