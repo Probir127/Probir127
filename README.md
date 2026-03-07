@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Probir Saha Shohom 👋</h1>
+<h1 align="center">Hi, I'm Probir Saha Shohom</h1>
 
 <p align="center">
   <em>Python Developer · AI Chatbot Builder · Flutter Learner · 🇧🇩 Dhaka, Bangladesh</em>
