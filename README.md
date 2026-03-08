@@ -70,8 +70,6 @@ probir = {
 Open to collaborations, freelance projects, and new ideas!
 
 - 💼 [LinkedIn — Probir Saha Shohom](https://www.linkedin.com/in/probir-saha-shohom-b01868280/)
-- 🐙 [gmail — probir shohom](sohom5102@gmail.com)
-
 ---
 
 <p align="center"><em>"Build things that matter."</em></p>
