@@ -60,7 +60,7 @@ probir = {
 |---------|-------------|------|
 | [🤖 HR-chatbot](https://github.com/Probir127/HR_chatbot) | AI-powered HR assistant that answers employee queries | Python |
 | [🤖 HR-chatbot (offline)](https://github.com/Probir127/HR-chatbot-offline--version-) | Offline version of the HR chatbot | Dart |
-| [🏥 HealthTech](https://github.com/Probir127/HealthTech) | Open-source healthcare solution | Python |
+| [E-commerce-](https://github.com/Probir127/HealthTech) | Open-source healthcare solution | Python |
 | [🌐 portfolio-maker](https://github.com/Probir127/portfolio-maker-webpage) | Portfolio generator web page | Python |
 
 ---
