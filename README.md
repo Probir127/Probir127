@@ -25,7 +25,7 @@ probir = {
     "location"  : "Dhaka, Bangladesh 🇧🇩",
     "focus"     : ["AI Chatbots", "Python Automation", "Full-Stack Apps"],
     "building"  : "Home service platform & HR AI tools",
-    "learning"  : ["Flutter", "FastAPI", "LLMs / RAG"],
+    "using"  : ["Flutter","FastAPI","Django","LLMs / RAG"],
     "pronouns"  : "he/him",
 }
 ```
