@@ -62,6 +62,7 @@ probir = {
 | [🤖 HR-chatbot (offline)](https://github.com/Probir127/HR-chatbot-offline--version-) | Offline version of the HR chatbot | Dart |
 | [🌐 RB-trading](https://github.com/Probir127/e-commerce-) | An e-commerce platform for trading | Python |
 | [🌐 portfolio-maker](https://github.com/Probir127/portfolio-maker-webpage) | Portfolio generator web page | Python |
+| [🌐 Grownk](https://github.com/Probir127/grownk) | A landing page for PR marketing team | ReactJS |
 ---
 
 ### Let's Connect
