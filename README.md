@@ -74,13 +74,8 @@ probir = {
 
 ### Let's Connect
 
-Open to collaborations, freelance projects, and new ideas!
 
-- 💼 [LinkedIn — Probir Saha Shohom](https://www.linkedin.com/in/probir-saha-shohom-b01868280/)
-
----
-
-<p align="center"><em>"Build things that matter."</em></p>
+<p align="center"><em>"I things that matter."</em></p>
 
 ### 📊 System Stats & Connectivity
 <p align="center">
