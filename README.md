@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Probir Saha Shohom</h1>
 
 <p align="center">
-  <em>Python Developer . AI Systems Builder | Django . FastAPI · RAG · Full-Stack</em>
+  <em>Python Developer .  AI Systems Builder · FastAPI · Django · RAG · Full-Stack</em>
 </p>
 
 <p align="center">
