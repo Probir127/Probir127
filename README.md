@@ -1,83 +1,58 @@
-<h1 align="center">Hi, I'm Probir Saha Shohom</h1>
+# Hi there, I'm Probir Saha Shohom 👋
 
-<p align="center">
-  <em>AI Systems Builder · FastAPI · Django · RAG · Full-Stack</em>
-</p>
+### 💻 Programmer in a Loop
+> **Alone on the road, Clear in the mind.**
+> `While (true) { Build(); Optimize(); Learn(); }`
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/probir-saha-shohom-b01868280/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Probir127">
-    <img src="https://img.shields.io/badge/GitHub-Probir127-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-  <a href="https://probir-portfolio-website-413x.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-3fb950?style=flat&logo=vercel&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Probir127&color=3fb950&style=flat&label=Profile+Views" />
-</p>
+I am a **Software Developer** and **Machine Learning Intern** based in Bangladesh, focused on bringing powerful AI models to local, on-device environments. I specialize in bridging the gap between complex ML architectures and fluid mobile experiences.
 
 ---
 
-### About Me
-
-```python
-probir = {
-    "name"      : "Probir Saha Shohom",
-    "handle"    : "Probir127",
-    "location"  : "Dhaka, Bangladesh 🇧🇩",
-    "focus"     : ["AI Systems", "Python Automation", "Full-Stack Apps"],
-    "building"  : "AI-powered HR tools & full-stack client platforms",
-    "using"     : ["FastAPI", "Django", "React", "LLMs / RAG"],
-    "pronouns"  : "he/him",
-}
-```
+### 🚀 The Current Loop (2026 Focus)
+- 🧠 **On-Device AI:** Optimizing **TinyLlama-1.1B** for Android using Flutter and NPU-accelerated inference.
+- 📱 **Mobile Ecosystems:** Building scalable, local-first applications with **Dart & Flutter**.
+- 🌐 **Web Scalability:** Managing robust backends with **Django** and **REST APIs**.
+- 🎓 **Next Iteration:** Preparing for international higher education (2026-2027) with a focus on Advanced AI Research.
 
 ---
 
-### Tech Stack
+### 🛠️ Tech Stack & Tools
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-
-**Frameworks & Tools**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-**Interests**
-
-![AI](https://img.shields.io/badge/AI%20%2F%20LLMs-FF6F00?style=flat&logo=openai&logoColor=white)
-![Chatbots](https://img.shields.io/badge/Chatbot%20Dev-3fb950?style=flat)
-![FullStack](https://img.shields.io/badge/Full--Stack-0175C2?style=flat)
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | Python, Dart, JavaScript, C++, SQL |
+| **Frameworks** | Flutter, Django, FastApi, PyTorch, TensorFlow |
+| **ML/AI** | LLM Quantization (GGUF), Feature Engineering, Model Optimization |
+| **DevOps & Tools** | Git, Docker, Linux (Ubuntu/Debian), Firebase |
 
 ---
 
-### Projects
+### 🌟 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [🤖 HR-chatbot](https://github.com/Probir127/HR-chatbot) | AI-powered HR assistant built with RAG architecture and local LLM — built during internship at ACME.AI | Python · FastAPI · RAG |
-| [🛒 RB Trading](https://github.com/Probir127/e-commerce-) | Full-stack e-commerce platform with JWT auth, SSLCommerz payment integration, and automated order management | Python · Django · React |
-| [🌐 portfolio-maker](https://github.com/Probir127/portfolio-maker-webpage) | Web app to create, preview and download a CV as PDF | Python · Django |
-| [🚀 GrownK](https://github.com/Probir127/grownk) | Landing page for GrownK — a PR & digital marketing agency | HTML · CSS · JS |
-| [🧑‍💻 Portfolio](https://github.com/Probir127/portfolio) | Personal developer portfolio | React · Vite |
+#### 🤖 [Local LLM Chatbot](https://github.com/Probir127/your-repo-link)
+A Flutter-based Android application that runs a quantized **TinyLlama-1.1B** model locally. No API required—just pure on-device intelligence.
+* *Tech:* Flutter, llama.cpp, Q4_K_M Quantization.
 
----
+#### 📁 [Django Portfolio Engine](https://github.com/Probir127/portfolio_)
+A high-performance personal portfolio managed with Django, featuring automated migration workflows and dynamic content management.
+* *Tech:* Python, Django, PostgreSQL, Git.
 
-### Let's Connect
-
-Open to collaborations, freelance projects, and new ideas!
-
-- 💼 [LinkedIn — Probir Saha Shohom](https://www.linkedin.com/in/probir-saha-shohom-b01868280/)
+#### 📈 [GrownK Branding & Web](https://github.com/Probir127/grownk)
+A complete digital identity project involving asset branding and responsive web architecture.
 
 ---
 
-<p align="center"><em>"Build things that matter."</em></p>
+### 📊 Stats & Activity
+
+![Probir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Probir127&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Probir127&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with me
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 📧 [Email](mailto:your-email@example.com)
+- 🌐 [Portfolio](https://probir127.github.io/)
+
+---
+*“Iteration is the only way to perfection.”*
