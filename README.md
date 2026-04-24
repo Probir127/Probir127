@@ -75,7 +75,7 @@ probir = {
 ### Let's Connect
 
 
-<p align="center"><em>"I things that matter."</em></p>
+<p align="center"><em>"I build things that matter."</em></p>
 
 ### 📊 System Stats & Connectivity
 <p align="center">
